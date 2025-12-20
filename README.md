@@ -42,7 +42,7 @@ The dashboard uses **Drillthrough** pages and **custom tooltips** to provide dee
 ## 📂 Pages Included
 1. **Employee Overview Dashboard** (Main Page)  
 2. **Job Role Analysis** (Drillthrough Page)  
-3. **Department Insights** (Drillthrough Page)  
+3. **Department Insights** (Tooltip Page)  
 4. **Tooltip Pages** (For dynamic hover-based insights)
 
 ---
